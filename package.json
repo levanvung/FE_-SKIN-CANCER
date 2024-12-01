@@ -23,7 +23,7 @@
     "react-tooltip": "^5.25.1"
   },
   "devDependencies": {
-    "@ant-design/pro-components": "^2.6.4",
+    "@ant-design/pro-components": "^2.8.2",
     "@loadable/component": "^5.15.3",
     "@reduxjs/toolkit": "^1.9.5",
     "@types/bcryptjs": "^2.4.6",
